@@ -1,0 +1,8 @@
+{
+  "name": "M9A Practice Exam",
+  "description": "A highly polished practice tool with dynamic MCQs for the CMFAS Module 9A Exam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
