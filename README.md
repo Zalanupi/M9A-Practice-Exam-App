@@ -119,7 +119,7 @@ No build steps. No package installs. Just open `index.html` and you're running.
 **Hamzah**
 🔗 [LinkedIn](https://www.linkedin.com/in/hamzah24) · 🐙 [GitHub](https://github.com/Zalanupi)
 
-> Business Analytics at Singapore University of Social Sciences
+> Business Analytics Student at Singapore University of Social Sciences
 
 ---
 
